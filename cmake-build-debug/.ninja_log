@@ -1,0 +1,6 @@
+# ninja log v5
+0	6608	7232661637105569	CMakeFiles/ProgrammingQuiz4.dir/ImdbTree.cpp.obj	b7a183d8b6e467b8
+6613	7561	7232661646665070	ProgrammingQuiz4.exe	d1bde776f678875a
+4	310	7232662020314535	build.ninja	4c2b7557ad76113a
+1	9658	7232662118322134	CMakeFiles/ProgrammingQuiz4.dir/main.cpp.obj	933b7b05d49b5fd8
+9659	11184	7232662133631182	ProgrammingQuiz4.exe	94c700292154d04b
